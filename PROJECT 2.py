@@ -6,7 +6,7 @@ import random
 ### EXERCISE 1 ###
 def Lets_Play_Shecklocked():
     print('''Welcome to the game “Sherlocked”. You will need to save the city of
-London from Moriarty’s “explosive hostages”. The program will receive
+London from Moriarty's “explosive hostages”. The program will receive
 as input:
 - N, defining the size of the square grid.
 - M, defining the number of hostages wearing explosive vests.
