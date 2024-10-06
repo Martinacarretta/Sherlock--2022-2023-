@@ -11,7 +11,8 @@ as input:
 - N, defining the size of the square grid.
 - M, defining the number of hostages wearing explosive vests.
 The program will create the NxN grid and find the place for the M
-explosive hostages. Afterwards, the NxN board will be created and
+explosive hostages. 
+Afterwards, the NxN board will be created and
 Sherlock will try to find the location of the hostages by selecting
 cells. Sherlock has a limited time to save the city of London from the
 explosions, so he can only check a maximum of 2*M cells.
